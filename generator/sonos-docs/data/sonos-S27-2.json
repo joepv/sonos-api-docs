@@ -2,8 +2,8 @@
   "model": "S27",
   "modelDescription": "Sonos Roam",
   "softwareGeneration": 2,
-  "softwareVersion": "63.2-90210",
-  "discoveryDate": "2021-07-21T23:31:31.207Z",
+  "softwareVersion": "64.3-19080",
+  "discoveryDate": "2021-08-17T18:53:03.145Z",
   "services": [
     {
       "name": "AlarmClock",
